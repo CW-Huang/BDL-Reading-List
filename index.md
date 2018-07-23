@@ -65,13 +65,19 @@ Expectation Propagation (EP):
 * [Neural Autoregressive Flows](https://arxiv.org/abs/1804.00779), Huang et al. 2018
 
 ## Transfer Learning and Semisupervised Learning
+* [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/abs/1406.5298), Kingma et al. 2014
+* [Towards a Neural Statistician](https://arxiv.org/abs/1606.02185), Edwards and Storkey 2016
+* [Uncertainty in Multitask Transfer Learning](https://arxiv.org/abs/1806.07528), Lacoste et al. 2018
+
 
 ## Representation Learning
 * PixelVAE
 * Variational Lossy Autoencoder
+* Generating Sentences from a Continuous Space
 * Vampprior
 * Variational Fair Autoencoder
 * [Hierarchical VampPrior Variational Fair Auto-Encoder](https://drive.google.com/file/d/1G9vfra-BEgLAQhhfguagT9m72lCVTfWP/view?usp=drive_web), Botros and Tomczak 2018
+* [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687), Kipf et al. 2018
 
 
 
@@ -95,7 +101,8 @@ Expectation Propagation (EP):
 * [Variational Dropout and the Local Reparameterization Trick](https://arxiv.org/abs/1506.02557), Kingma et al. 2015
 * [Dropout Inference in Bayesian Neural Networks with Alpha-divergences](https://arxiv.org/abs/1703.02914), Yingzhen and Gal 2017
 * [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961), Louizos and Welling 2017
-* [Bayesian Hypernetworks](https://arxiv.org/abs/1710.04759) Krueger et al. 2017
+* [Bayesian Hypernetworks](https://arxiv.org/abs/1710.04759), Krueger et al. 2017
+* [Deep Prior](https://arxiv.org/abs/1712.05016), Lacoste et al. 2017
 
 ## Bayesian Deep Neural Networks (MCMC Approaches)
 
