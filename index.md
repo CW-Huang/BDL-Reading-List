@@ -32,6 +32,7 @@ Amortized Variational Inference and Reparameterization Trick:
 * [Stochastic Backpropagation and Approximate Inference in Deep Generative Models](https://arxiv.org/abs/1401.4082), Rezende et al. 2014
 * [The Generalized Reparameterization Gradient](https://arxiv.org/abs/1610.02287), Ruiz et al. 2016
 * [Inference Suboptimality in Variational Autoencoders](https://arxiv.org/abs/1801.03558), Cremer et al. 2018
+* [Forward Amortized Inference for Likelihood-Free Variational Marginalization](https://arxiv.org/abs/1805.11542), Ambrogioni et al. 2018
 
 Hierarchical Variational Methods:
 * [An Auxiliary Variational Method](https://www.semanticscholar.org/paper/An-Auxiliary-Variational-Method-Agakov-Barber/07bbffb1d04d252a471c3a40653849b1c8200ede), Agakov and Barber 2004
@@ -39,6 +40,7 @@ Hierarchical Variational Methods:
 * [Auxiliary Deep Generative Models](https://arxiv.org/abs/1602.05473), Maaløe et al. 2016
 * [Markov chain Monte Carlo and variational inference: Bridging the gap](https://arxiv.org/abs/1410.6460), Salimans et al. 2014
 * [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770), Rezende and Mohamed 2015
+* [The Variational Gaussian Process](https://arxiv.org/abs/1511.06499), Tran et al. 2015
 
 Variance Reduction in VI:
 
@@ -79,10 +81,11 @@ Expectation Propagation (EP):
 
 - [Importance Weighted Autoencoders](https://arxiv.org/abs/1509.00519), Burda et al. 2015
 - [Reinterpreting Importance-Weighted Autoencoders](https://arxiv.org/abs/1704.02916), Cremer et al. 2017
+- [Sequentialized Sampling Importance Resampling and Scalable IWAE](http://bayesiandeeplearning.org/2017/papers/41.pdf), Huang and Courville 2018
 - [Tighter Variational Bounds are Not Necessarily Better](https://arxiv.org/abs/1802.04537), Rainforth et al. 2018
 - [On Nesting Monte Carlo Estimators](https://arxiv.org/abs/1709.06181), Rainforth et al. 2018
 
-## Inference as Adversarial Training
+## Implicit Inference
 
 * [Adversarially Learned Inference](https://arxiv.org/abs/1606.00704), Dumoulin et al. 2016
 * [Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks](https://arxiv.org/abs/1701.04722), Mescheder et al. 2017
@@ -129,12 +132,14 @@ Expectation Propagation (EP):
 ## Bayesian Deep Neural Networks (Variational Approaches)
 * [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/abs/1502.05336), Hernández-Lobato and Adams 2015
 * [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142), Gal and Ghahramani 2015
+* [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424), Blundell et al. 2015
 * [Variational Dropout and the Local Reparameterization Trick](https://arxiv.org/abs/1506.02557), Kingma et al. 2015
 * [Dropout Inference in Bayesian Neural Networks with Alpha-divergences](https://arxiv.org/abs/1703.02914), Yingzhen and Gal 2017
 * [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961), Louizos and Welling 2017
 * [Bayesian Hypernetworks](https://arxiv.org/abs/1710.04759), Krueger et al. 2017
 * [Deep Prior](https://arxiv.org/abs/1712.05016), Lacoste et al. 2017
 * [Noisy Natural Gradient as Variational Inference](https://arxiv.org/pdf/1712.02390.pdf), Zhang et al. 2018
+* [Adversarial Distillation of Bayesian Neural Network Posteriors](https://arxiv.org/abs/1806.10317), Wang et al. 2018
 
 ## Bayesian Deep Neural Networks (MCMC Approaches)
 
@@ -142,21 +147,30 @@ Expectation Propagation (EP):
 * [Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring](https://arxiv.org/pdf/1206.6380.pdf), Ahn et al. 2012
 * [Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/pdf/1402.4102.pdf), Chen et al. 2014
 * [Bayesian Sampling Using Stochastic Gradient Thermostats](http://papers.nips.cc/paper/5592-bayesian-sampling-using-stochastic-gradient-thermostats), Ding et al. 2014
-* [Preconditioned Stochastic Gradient Langevin Dynamics for Deep Neural Networks](https://arxiv.org/pdf/1512.07666.pdf)
+* [Preconditioned Stochastic Gradient Langevin Dynamics for Deep Neural Networks](https://arxiv.org/pdf/1512.07666.pdf), Li et al 2015
 * [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/pdf/1611.01838.pdf), Chaudhari et al. 2017
-
 
 
 
 ## Deep neural networks = Gaussian Process
 
+* [Deep Neural Networks as Gaussian Processes](https://arxiv.org/abs/1711.00165), Lee et al. 2018
+
 
 ## SGD / Approximate Inference / PAC-Bayes
 * [PAC-Bayesian Theory Meets Bayesian Inference](https://arxiv.org/abs/1605.08636), Germain et al. 2016
+
 * [Stochastic Gradient Descent as Approximate Bayesian Inference](https://arxiv.org/abs/1704.04289), Mandt et al. 2017
+
 * [Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks](https://arxiv.org/abs/1710.11029), Chaudhari and Soatto 2017
+
 * [Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints](https://arxiv.org/abs/1707.05947), Mou et al. 2017
+
 * [Entropy-SGD optimizes the prior of a PAC-Bayes bound: Generalization properties of Entropy-SGD and data-dependent priors](https://arxiv.org/abs/1712.09376), Dziugaite and Roy 2017
+
+* [A Bayesian Perspective on Generalization and Stochastic Gradient Descent](https://arxiv.org/abs/1710.06451), Smith and Le 2018
+
+   
 
 
 
