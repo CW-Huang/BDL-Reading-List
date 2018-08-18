@@ -154,7 +154,6 @@ Expectation Propagation (EP):
 * [Variational Gaussian Dropout is not Bayesian](https://arxiv.org/abs/1711.02989), Hron et al. 2017
 * [Variational Bayesian dropout: pitfalls and fixes](http://proceedings.mlr.press/v80/hron18a/hron18a.pdf), Hron et al. 2018
 * [Noisy Natural Gradient as Variational Inference](https://arxiv.org/pdf/1712.02390.pdf), Zhang et al. 2018
-* [Adversarial Distillation of Bayesian Neural Network Posteriors](https://arxiv.org/abs/1806.10317), Wang et al. 2018
 
 ## Bayesian Deep Neural Networks (MCMC Approaches)
 * [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf), Welling and Teh 2011
@@ -163,6 +162,7 @@ Expectation Propagation (EP):
 * [Bayesian Sampling Using Stochastic Gradient Thermostats](http://papers.nips.cc/paper/5592-bayesian-sampling-using-stochastic-gradient-thermostats), Ding et al. 2014
 * [Preconditioned Stochastic Gradient Langevin Dynamics for Deep Neural Networks](https://arxiv.org/pdf/1512.07666.pdf), Li et al 2015
 * [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/pdf/1611.01838.pdf), Chaudhari et al. 2017
+* [Adversarial Distillation of Bayesian Neural Network Posteriors](https://arxiv.org/abs/1806.10317), Wang et al. 2018
 
 ## Deep neural networks = Gaussian Process
 * [Priors for Infinite Network](https://www.cs.toronto.edu/~radford/ftp/pin.pdf), Neal 1994
