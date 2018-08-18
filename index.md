@@ -60,6 +60,7 @@ Expectation Propagation (EP):
 
 ## Deep State Space Models
 * [A Recurrent Latent Variable Model for Sequential Data](https://arxiv.org/abs/1506.02216), Chung et al. 2015
+* [Deep Kalman Filters](https://arxiv.org/abs/1511.05121), Krishnan et al. 2015
 * [Filtering Variational Objectives](https://arxiv.org/abs/1705.09279), Maddison et al. 2017
 * [Variational Sequential Monte Carlo](https://arxiv.org/abs/1705.11140), Naesseth et al. 2017
 * [Auto-Encoding Sequential Monte Carlo](https://arxiv.org/abs/1705.10306), Le et al. 2017
@@ -135,6 +136,12 @@ Expectation Propagation (EP):
 * [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/abs/1703.07370), Tucker et al. 2017
 * [Backpropagation through the Void: Optimizing control variates for black-box gradient estimation](https://arxiv.org/abs/1711.00123), Grathwohl et al. 2017
 
+## Bayesian Compression
+* [Bayesian Compression for Deep Learning](https://arxiv.org/abs/1705.08665), Louizos et al. 2017
+* [Improved Bayesian Compression], Federici et al. 2017
+* [Learning Sparse Neural Networks through L0 Regularization], Louizos et al. 2018
+* [Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors](https://arxiv.org/pdf/1806.05975.pdf), Ghosh et al. 2018
+
 ## Bayesian Deep Neural Networks (Variational Approaches)
 * [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/abs/1502.05336), Hernández-Lobato and Adams 2015
 * [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142), Gal and Ghahramani 2015
@@ -144,6 +151,8 @@ Expectation Propagation (EP):
 * [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961), Louizos and Welling 2017
 * [Bayesian Hypernetworks](https://arxiv.org/abs/1710.04759), Krueger et al. 2017
 * [Deep Prior](https://arxiv.org/abs/1712.05016), Lacoste et al. 2017
+* [Variational Gaussian Dropout is not Bayesian](https://arxiv.org/abs/1711.02989), Hron et al. 2017
+* [Variational Bayesian dropout: pitfalls and fixes], Hron et al. 2018
 * [Noisy Natural Gradient as Variational Inference](https://arxiv.org/pdf/1712.02390.pdf), Zhang et al. 2018
 * [Adversarial Distillation of Bayesian Neural Network Posteriors](https://arxiv.org/abs/1806.10317), Wang et al. 2018
 
