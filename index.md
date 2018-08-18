@@ -76,6 +76,7 @@ Expectation Propagation (EP):
 * [Neural Autoregressive Flows](https://arxiv.org/abs/1804.00779), Huang et al. 2018
 * [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803), Dinh et al. 2016
 * [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039), Kingma and Dhariwal 2018
+* [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366), Chen et al. 2018
 
 ## Importance Weighted Autoencoder
 - [Importance Weighted Autoencoders](https://arxiv.org/abs/1509.00519), Burda et al. 2015
