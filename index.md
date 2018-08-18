@@ -38,7 +38,7 @@ Hierarchical Variational Methods:
 * [An Auxiliary Variational Method](https://www.semanticscholar.org/paper/An-Auxiliary-Variational-Method-Agakov-Barber/07bbffb1d04d252a471c3a40653849b1c8200ede), Agakov and Barber 2004
 * [Hierarchical Variational Models](https://arxiv.org/abs/1511.02386), Ranganath et al. 2015
 * [Auxiliary Deep Generative Models](https://arxiv.org/abs/1602.05473), Maaløe et al. 2016
-* [Markov chain Monte Carlo and variational inference: Bridging the gap](https://arxiv.org/abs/1410.6460), Salimans et al. 2014
+* [Markov Chain Monte Carlo and Variational Inference: Bridging the Gap](https://arxiv.org/abs/1410.6460), Salimans et al. 2014
 * [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770), Rezende and Mohamed 2015
 * [The Variational Gaussian Process](https://arxiv.org/abs/1511.06499), Tran et al. 2015
 
@@ -71,10 +71,10 @@ Expectation Propagation (EP):
 * [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770), Rezende and Mohamed 2015
 * [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934), Kingma et al. 2016
 * [Improving Variational Auto-Encoders using Householder Flow](https://arxiv.org/abs/1611.09630), Tomczak and Welling 2016
-* [Improving Variational Auto-Encoders using convex combination linear Inverse Autoregressive Flow](https://arxiv.org/pdf/1706.02326), Tomczak and Welling 2017
+* [Improving Variational Auto-Encoders using Convex Combination Linear Inverse Autoregressive Flow](https://arxiv.org/pdf/1706.02326), Tomczak and Welling 2017
 * [Sylvester Normalizing Flows for Variational Inference](https://arxiv.org/abs/1803.05649), Berg et al. 2018
 * [Neural Autoregressive Flows](https://arxiv.org/abs/1804.00779), Huang et al. 2018
-* [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803), Dinh et al. 2016
+* [Density Estimation using Real NVP](https://arxiv.org/abs/1605.08803), Dinh et al. 2016
 * [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039), Kingma and Dhariwal 2018
 * [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366), Chen et al. 2018
 
@@ -99,7 +99,7 @@ Expectation Propagation (EP):
 * [Neural Processes](https://arxiv.org/abs/1807.01622), Garnelo et al. 2018
 
 ## Representation Learning
-* [Ladder variational autoencoders](http://papers.nips.cc/paper/6275-ladder-variational-autoencoders), Sønderby et al. 2016 
+* [Ladder Variational Autoencoders](http://papers.nips.cc/paper/6275-ladder-variational-autoencoders), Sønderby et al. 2016 
 * [PixelVAE: A Latent Variable Model for Natural Images](https://arxiv.org/abs/1611.05013), Gulrajani et al. 2016
 * [Variational Lossy Autoencoder](https://arxiv.org/abs/1611.02731), Chen et al. 2016
 * [Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349), Bowman et al. 2015
@@ -109,14 +109,14 @@ Expectation Propagation (EP):
 * [Hierarchical VampPrior Variational Fair Auto-Encoder](https://drive.google.com/file/d/1G9vfra-BEgLAQhhfguagT9m72lCVTfWP/view?usp=drive_web), Botros and Tomczak 2018
 * [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687), Kipf et al. 2018 
 * [Hyperspherical Variational Auto-Encoders](https://arxiv.org/abs/1804.00891), Davidson et al. 2018
-* [Neural scene representation and rendering](http://science.sciencemag.org/content/360/6394/1204), Eslami et al. 2018
+* [Neural Scene Representation and Rendering](http://science.sciencemag.org/content/360/6394/1204), Eslami et al. 2018
 
 ## Disentanglement in Deep Representations
 * [Emergence of Invariance and Disentanglement in Deep Representations](https://arxiv.org/abs/1706.01350), Achille and Soatto 2017
 * [Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/abs/1606.05579), Higgins et al. 2016
 * [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl), Higgins et al. 2017
 * [Isolating Sources of Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1802.04942), Chen et al. 2018
-* [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599), Burgess et al. 2018
+* [Understanding Disentangling in β-VAE](https://arxiv.org/abs/1804.03599), Burgess et al. 2018
 
 ## Memory Addressing, Localization and Inference
 * [Learning to Generate with Memory](https://arxiv.org/pdf/1602.07416.pdf), Li et al. 2016
@@ -131,12 +131,12 @@ Expectation Propagation (EP):
 * [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/abs/1402.0030), Mnih and Gregor 2014
 * [MuProp: Unbiased Backpropagation for Stochastic Neural Networks](https://arxiv.org/abs/1511.05176), Gu et al. 2015 
 * [Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/abs/1506.05254), Schulman et al. 2015 
-* [Variational inference for Monte Carlo objectives](https://arxiv.org/abs/1602.06725), Mnih and Rezende 2016
-* [The concrete distribution: A continuous relaxation of discrete random variables](https://arxiv.org/abs/1611.00712), Maddison et al. 2016
+* [Variational Inference for Monte Carlo Objectives](https://arxiv.org/abs/1602.06725), Mnih and Rezende 2016
+* [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/abs/1611.00712), Maddison et al. 2016
 * [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144), Jang et al. 2016
 * [The Generalized Reparameterization Gradient](https://arxiv.org/abs/1610.02287), Ruiz et al. 2016 
-* [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/abs/1703.07370), Tucker et al. 2017
-* [Backpropagation through the Void: Optimizing control variates for black-box gradient estimation](https://arxiv.org/abs/1711.00123), Grathwohl et al. 2017
+* [REBAR: Low-variance, Unbiased Gradient Estimates for Discrete Latent Variable Models](https://arxiv.org/abs/1703.07370), Tucker et al. 2017
+* [Backpropagation Through the Void: Optimizing Control Variates for Black-Box Gradient Estimation](https://arxiv.org/abs/1711.00123), Grathwohl et al. 2017
 
 ## Bayesian Compression
 * [Bayesian Compression for Deep Learning](https://arxiv.org/abs/1705.08665), Louizos et al. 2017
@@ -170,15 +170,15 @@ Expectation Propagation (EP):
 * [Priors for Infinite Network](https://www.cs.toronto.edu/~radford/ftp/pin.pdf), Neal 1994
 * [Bayesian Learning for Neural Networks](https://pdfs.semanticscholar.org/db86/9fa192a3222ae4f2d766674a378e47013b1b.pdf), Neal 1995
 * [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142), Gal and Ghahramani 2015
-* [Avoiding pathologies in very deep networks](https://arxiv.org/pdf/1402.5836.pdf), Duvenaud et al. 2016
+* [Avoiding Pathologies in Very Deep Networks](https://arxiv.org/pdf/1402.5836.pdf), Duvenaud et al. 2016
 * [Deep Neural Networks as Gaussian Processes](https://arxiv.org/abs/1711.00165), Lee et al. 2018
 
 ## SGD / Approximate Inference / PAC-Bayes
 * [PAC-Bayesian Theory Meets Bayesian Inference](https://arxiv.org/abs/1605.08636), Germain et al. 2016
 * [Stochastic Gradient Descent as Approximate Bayesian Inference](https://arxiv.org/abs/1704.04289), Mandt et al. 2017
-* [Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks](https://arxiv.org/abs/1710.11029), Chaudhari and Soatto 2017
+* [Stochastic Gradient Descent Performs Variational Inference, Converges to Limit Cycles for Deep Networks](https://arxiv.org/abs/1710.11029), Chaudhari and Soatto 2017
 * [Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints](https://arxiv.org/abs/1707.05947), Mou et al. 2017
-* [Entropy-SGD optimizes the prior of a PAC-Bayes bound: Generalization properties of Entropy-SGD and data-dependent priors](https://arxiv.org/abs/1712.09376), Dziugaite and Roy 2017
+* [Entropy-SGD Optimizes the Prior of a PAC-Bayes Bound: Generalization properties of Entropy-SGD and data-dependent priors](https://arxiv.org/abs/1712.09376), Dziugaite and Roy 2017
 * [A Bayesian Perspective on Generalization and Stochastic Gradient Descent](https://arxiv.org/abs/1710.06451), Smith and Le 2018
 
    
