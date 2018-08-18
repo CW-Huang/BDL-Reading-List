@@ -43,9 +43,7 @@ Hierarchical Variational Methods:
 Variance Reduction in VI:
 
 * MCTME Chapter 8, 10
-
 * [Sticking the Landing: Simple, Lower-Variance Gradient Estimators for Variational Inference](https://arxiv.org/abs/1703.09194), Roeder et al. 2017
-
 * [Reducing Reparameterization Gradient Variance](https://arxiv.org/abs/1705.07880), Miller et al. 2017
 * [Quasi-Monte Carlo Variational Inference](https://arxiv.org/abs/1807.01604), Buchholz et al. 2018
 
@@ -75,7 +73,6 @@ Expectation Propagation (EP):
 * [Sylvester Normalizing Flows for Variational Inference](https://arxiv.org/abs/1803.05649), Berg et al. 2018
 * [Neural Autoregressive Flows](https://arxiv.org/abs/1804.00779), Huang et al. 2018
 * [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803), Dinh et al. 2016
-
 * [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039), Kingma and Dhariwal 2018
 
 ## Importance Weighted Autoencoder
