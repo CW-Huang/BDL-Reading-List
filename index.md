@@ -109,6 +109,7 @@ Expectation Propagation (EP):
 * [Hierarchical VampPrior Variational Fair Auto-Encoder](https://drive.google.com/file/d/1G9vfra-BEgLAQhhfguagT9m72lCVTfWP/view?usp=drive_web), Botros and Tomczak 2018
 * [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687), Kipf et al. 2018 
 * [Hyperspherical Variational Auto-Encoders](https://arxiv.org/abs/1804.00891), Davidson et al. 2018
+* [Neural scene representation and rendering](http://science.sciencemag.org/content/360/6394/1204), Eslami et al. 2018
 
 ## Disentanglement in Deep Representations
 * [Emergence of Invariance and Disentanglement in Deep Representations](https://arxiv.org/abs/1706.01350), Achille and Soatto 2017
