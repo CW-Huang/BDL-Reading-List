@@ -152,7 +152,7 @@ Expectation Propagation (EP):
 * [Bayesian Hypernetworks](https://arxiv.org/abs/1710.04759), Krueger et al. 2017
 * [Deep Prior](https://arxiv.org/abs/1712.05016), Lacoste et al. 2017
 * [Variational Gaussian Dropout is not Bayesian](https://arxiv.org/abs/1711.02989), Hron et al. 2017
-* [Variational Bayesian dropout: pitfalls and fixes], Hron et al. 2018
+* [Variational Bayesian dropout: pitfalls and fixes](http://proceedings.mlr.press/v80/hron18a/hron18a.pdf), Hron et al. 2018
 * [Noisy Natural Gradient as Variational Inference](https://arxiv.org/pdf/1712.02390.pdf), Zhang et al. 2018
 * [Adversarial Distillation of Bayesian Neural Network Posteriors](https://arxiv.org/abs/1806.10317), Wang et al. 2018
 
