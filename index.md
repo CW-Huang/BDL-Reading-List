@@ -140,8 +140,8 @@ Expectation Propagation (EP):
 
 ## Bayesian Compression
 * [Bayesian Compression for Deep Learning](https://arxiv.org/abs/1705.08665), Louizos et al. 2017
-* [Improved Bayesian Compression], Federici et al. 2017
-* [Learning Sparse Neural Networks through L0 Regularization], Louizos et al. 2018
+* [Improved Bayesian Compression](https://arxiv.org/abs/1711.06494), Federici et al. 2017
+* [Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312), Louizos et al. 2018
 * [Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors](https://arxiv.org/pdf/1806.05975.pdf), Ghosh et al. 2018
 
 ## Bayesian Deep Neural Networks (Variational Approaches)
