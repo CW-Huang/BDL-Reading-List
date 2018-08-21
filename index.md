@@ -79,11 +79,12 @@ Expectation Propagation (EP):
 * [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366), Chen et al. 2018
 
 ## Importance Weighted Autoencoder
-- [Importance Weighted Autoencoders](https://arxiv.org/abs/1509.00519), Burda et al. 2015
-- [Reinterpreting Importance-Weighted Autoencoders](https://arxiv.org/abs/1704.02916), Cremer et al. 2017
-- [Sequentialized Sampling Importance Resampling and Scalable IWAE](http://bayesiandeeplearning.org/2017/papers/41.pdf), Huang and Courville 2018
-- [Tighter Variational Bounds are Not Necessarily Better](https://arxiv.org/abs/1802.04537), Rainforth et al. 2018
-- [On Nesting Monte Carlo Estimators](https://arxiv.org/abs/1709.06181), Rainforth et al. 2018
+* [Importance Weighted Autoencoders](https://arxiv.org/abs/1509.00519), Burda et al. 2015
+* [Reinterpreting Importance-Weighted Autoencoders](https://arxiv.org/abs/1704.02916), Cremer et al. 2017
+* [Sequentialized Sampling Importance Resampling and Scalable IWAE](http://bayesiandeeplearning.org/2017/papers/41.pdf), Huang and Courville 2018
+* [Tighter Variational Bounds are Not Necessarily Better](https://arxiv.org/abs/1802.04537), Rainforth et al. 2018
+* [On Nesting Monte Carlo Estimators](https://arxiv.org/abs/1709.06181), Rainforth et al. 2018
+* [Debiasing Evidence Approximations: On Importance-weighted Autoencoders and Jackknife Variational Inference](https://openreview.net/pdf?id=HyZoi-WRb), Nowozin 2018
 
 ## Implicit Inference
 * [Adversarially Learned Inference](https://arxiv.org/abs/1606.00704), Dumoulin et al. 2016
@@ -138,12 +139,6 @@ Expectation Propagation (EP):
 * [REBAR: Low-variance, Unbiased Gradient Estimates for Discrete Latent Variable Models](https://arxiv.org/abs/1703.07370), Tucker et al. 2017
 * [Backpropagation Through the Void: Optimizing Control Variates for Black-Box Gradient Estimation](https://arxiv.org/abs/1711.00123), Grathwohl et al. 2017
 
-## Bayesian Compression
-* [Bayesian Compression for Deep Learning](https://arxiv.org/abs/1705.08665), Louizos et al. 2017
-* [Improved Bayesian Compression](https://arxiv.org/abs/1711.06494), Federici et al. 2017
-* [Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312), Louizos et al. 2018
-* [Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors](https://arxiv.org/pdf/1806.05975.pdf), Ghosh et al. 2018
-
 ## Bayesian Deep Neural Networks (Variational Approaches)
 * [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/abs/1502.05336), Hernández-Lobato and Adams 2015
 * [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142), Gal and Ghahramani 2015
@@ -156,6 +151,13 @@ Expectation Propagation (EP):
 * [Variational Gaussian Dropout is not Bayesian](https://arxiv.org/abs/1711.02989), Hron et al. 2017
 * [Variational Bayesian dropout: pitfalls and fixes](http://proceedings.mlr.press/v80/hron18a/hron18a.pdf), Hron et al. 2018
 * [Noisy Natural Gradient as Variational Inference](https://arxiv.org/pdf/1712.02390.pdf), Zhang et al. 2018
+
+## Bayesian Compression
+* [Bayesian Compression for Deep Learning](https://arxiv.org/abs/1705.08665), Louizos et al. 2017
+* [Improved Bayesian Compression](https://arxiv.org/abs/1711.06494), Federici et al. 2017
+* [Variational Dropout Sparsifies Deep Neural Networks](https://arxiv.org/abs/1701.05369), Molchanov et al. 2017
+* [Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312), Louizos et al. 2018
+* [Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors](https://arxiv.org/pdf/1806.05975.pdf), Ghosh et al. 2018
 
 ## Bayesian Deep Neural Networks (MCMC Approaches)
 * [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf), Welling and Teh 2011
